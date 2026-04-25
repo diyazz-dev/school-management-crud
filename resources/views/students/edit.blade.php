@@ -1,6 +1,6 @@
 @extends('layouts.app')
  @section('mainheading')
-            <h1 class="text-2xl font-bold text-slate-800">Add Student</h1>
+            <h1 class="text-2xl font-bold text-slate-800">Edit Student</h1>
             @endsection
 @section('content')
 <script src="https://cdn.tailwindcss.com"></script>
